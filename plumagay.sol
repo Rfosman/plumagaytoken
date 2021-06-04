@@ -9,9 +9,7 @@ pragma solidity ^0.4.24;
 // Decimals      : 18
 // Owner Account : 0x9d4E24FB032c7Cc2cB5787D215D5D45d5362afaE
 //
-// Enjoy.
-//
-// (c) by Juan Cruz Martinez 2020. MIT Licence.
+
 // USED BY ROGER FOS MONTESINOS
 // ----------------------------------------------------------------------------
 
